@@ -3,7 +3,7 @@
 I use my public GitHub like a glorified stash, and most of my active projects are private! A better representation of my experience is available on [LinkedIn](https://www.linkedin.com/in/samtwining/). Since my GitHub profile doesn't make for a great link so let me show you what I've been up to recently.
 
 # Kintsugi Technology
-I co-run a [consulting business](https://kintsugitechnology.com) helping businesses deliver their products (faster|better|on time) according to their needs. We started in mid-2022, but have already helped ship 4 separate projects alongside process and development management.  
+I co-run a [consulting business](https://kintsugitechnology.com) helping businesses deliver their products (faster|better|on time) according to their needs.
 
 Some of the help we've provided includes:  
 - Developing designs into WYSIWYG components in Wordpress using Elementor
